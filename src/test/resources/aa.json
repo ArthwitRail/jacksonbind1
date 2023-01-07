@@ -1,0 +1,36 @@
+{
+  "mydata" : [
+    {
+      "datavalue" : 23,
+      "children" : null
+    },
+    {
+      "datavalue" : 33
+    },
+    {
+      "datavalue" : 44,
+      "children" : [
+        {
+          "datavalue": 101,
+          "children" : [
+            {
+              "datavalue" : 201,
+              "children" : null
+            },
+            {
+              "datavalue" : 202,
+              "children" : null
+            }
+          ]
+        },
+        {
+          "datavalue": 102,
+          "children" : null
+        }
+      ]
+    },
+    {
+      "datavalue" : 55
+    }
+  ]
+}
